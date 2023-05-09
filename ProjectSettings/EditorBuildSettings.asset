@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Exercise Scenes/Menu_Hour14.unity
+    path: Assets/Scenes/uhanif_Hour14.unity
     guid: 336136a21c670a149a5f387b877afe2b
   - enabled: 1
     path: Assets/Scenes/Exercise Scenes/Game.unity
